@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# static folder for digital ocean platform
+_static
